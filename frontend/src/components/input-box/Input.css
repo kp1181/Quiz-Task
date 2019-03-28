@@ -1,0 +1,11 @@
+.row {
+    display: inline-block;
+    position: relative;
+    margin-top: 60px;
+    margin-left: 250px;
+    width: 50%;
+    height: 20%;
+}
+#historyButton {
+    margin-left: 15px;
+}

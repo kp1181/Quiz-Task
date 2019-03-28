@@ -1,0 +1,17 @@
+.HeaderContent {
+  background: #0080ff;
+  left: 0;
+  right: 0;
+  top: 0;
+  height: 10%;
+  position: fixed;
+  font-size: 10px;
+  box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1);
+}
+
+.HeaderAdd {
+  color: white;
+  text-align: center;
+  position: relative;
+  font-size: 10px;
+}
